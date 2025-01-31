@@ -1,1 +1,3 @@
-Meu novo - outra alteração 
+Meu novo - outra alteração - Fazendo outro teste
+
+Curso de JavaScript e apredendo GitHub.
