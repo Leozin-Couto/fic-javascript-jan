@@ -2,6 +2,12 @@ body {
     background-color: rosybrown;
 }
 h1 {
-    text-align: center
-    ;
+    text-align: center;
+}
+img {
+    margin: 0 auto;
+}
+hr {
+    color: black;
+    
 }
